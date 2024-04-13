@@ -11,9 +11,9 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kd2-80161&theme=dark&show_icons=true)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs1719&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kd2-80161&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs1719&layout=compact&theme=dark&hide_border=true)
 
    <details>
     <summary>made with </summary>
