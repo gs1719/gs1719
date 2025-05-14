@@ -1,4 +1,4 @@
-### Hi there its me 🅶🅰🆄🆁🅰🆅 🆂🆁🅸🆅🅰🆂🆃🅰🆅🅰👋
+### Hi there its me Gaurav
 
 <!-- ![Snake animation](https://github.com/kd2-80161/kd2-80161/blob/output/github-contribution-grid-snake-dark.svg) -->
 
